@@ -1,0 +1,35 @@
+export interface Me {
+  name: string;
+  lastName: string;
+  role: string;
+  portfolioLink: string;
+}
+
+export interface Work {
+  workName: string;
+  workDescription: string;
+  workTechnologies: string[];
+  codeButtonLink: string;
+  demoButtonLink: string;
+}
+
+export interface Education {
+  degree: string;
+  college: string;
+  date: string;
+  competencies: string[];
+}
+
+export interface Experience {
+  role: string;
+  company: string;
+  date: string;
+  responsabilities: string[];
+}
+
+export interface PortfolioData {
+  me: Me;
+  works: Work[];
+  education: Education[];
+  experience: Experience[];
+}

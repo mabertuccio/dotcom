@@ -1,0 +1,43 @@
+{
+  "me": {
+    "name": "Matias",
+    "lastName": "Bertuccio",
+    "role": "Back-End Developer",
+    "portfolioLink": "#"
+  },
+  "works": [
+    {
+      "workName": "Electro Shop",
+      "workDescription": "e-Commerce application developed in collaboration with classmates using PHP, HTML, and the Model-View-Controller (MVC) architecture. Designed as an educational platform, it allowed us to apply theoretical concepts in a real-world scenario by building a functional online store. The application supports basic e-commerce funcionalities such as product listing, cart management, and user interactions, with a focus on clean code structure and teamwork.",
+      "workTechnologies": ["HTML", "CSS", "JavaScript", "PHP"],
+      "codeButtonLink": "#",
+      "demoButtonLink": "#"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Técnico Superior en Desarrollo de Software",
+      "college": "I.F.T.S. N° 4",
+      "date": "03/2022 - 12/2024",
+      "competencies": [
+        "Developed expertise in Python, applying Object-Oriented Programming (OOP) principles.",
+        "Mastered database management and networking concepts.",
+        "Built Full-Stack applications, emphasizing web security.",
+        "Implemented Quality Assurance (QA) practices for robuts software."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Práctica Profesional",
+      "company": "Robótica SRL - Part Time",
+      "date": "08/2024 - 10/2024",
+      "responsabilities": [
+        "Knowledge of different types of Industrial Robots.",
+        "Introduction to Fanuc programming language.",
+        "Basic manipulation of a Teach Pendant.",
+        "Practical application for basic robotic tasks."
+      ]
+    }
+  ]
+}
