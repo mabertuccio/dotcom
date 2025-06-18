@@ -3,12 +3,16 @@ export interface Me {
   lastName: string;
   role: string;
   portfolioLink: string;
+  avatarSource: string;
+  gitHubLink: string;
+  linkedInLink: string;
 }
 
 export interface Work {
   workName: string;
   workDescription: string;
   workTechnologies: string[];
+  workImageSource: string;
   codeButtonLink: string;
   demoButtonLink: string;
 }
