@@ -1,0 +1,11 @@
+# Excluir carpetas de compilación, dependencias y otros lenguajes del análisis de GitHub
+/dist/* linguist-vendored
+/build/* linguist-vendored
+/node_modules/* linguist-vendored
+/coverage/* linguist-vendored
+
+# Si tienes otros lenguajes (como CSS, HTML, JSON, etc.) y quieres ocultarlos de las estadísticas:
+*.css linguist-generated
+*.html linguist-generated
+*.json linguist-generated
+*.md linguist-generated
