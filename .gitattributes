@@ -9,3 +9,4 @@
 *.html linguist-generated
 *.json linguist-generated
 *.md linguist-generated
+*.js
