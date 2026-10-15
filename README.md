@@ -66,5 +66,5 @@ portfolio/
 Feel free to reach out if you'd like to connect, collaborate, or just say hello!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:tutebertuccio@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&label=)](https://github.com/mabertuccio)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&label=)](https://github.com/.)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/matiasbertuccio)  
